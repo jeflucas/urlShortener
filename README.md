@@ -6,7 +6,7 @@ URL Shortner is a single-page application that will recieve an valid link from u
 
 This project is still in progress so I'm planning to use:
 
-- VUE
+- VUE 2
 - CSS
 - HTML
 - JavaScript
