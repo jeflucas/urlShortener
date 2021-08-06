@@ -15,8 +15,9 @@ I'm still thinking on use a lib to help-me with the graphic part of the project,
 
 ## Chronogram
 
-Start    - 05 August
-Deadline - 11 August
+Start    - 05 August 2021
+
+Deadline - 11 August 2021
 
 - [ ] Day 1 - Find an API to use and read the documentation
 - [ ] Day 2 - Build the visual part
