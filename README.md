@@ -26,3 +26,12 @@ Deadline - 11 August 2021
 - [ ] Day 5 - Search for feedback in the community & improove
 - [ ] Day 6 - Present the project with a Linkedin post
 
+## Prject Requirements
+
+The user will input a valid URL and click a "shorten" button. The shortened URL will then be displayed.
+
+The UI should include the following elements:
+
+- Text input for the user's URL
+- "Shorten" button to trigger the link shortening
+- Display area to return the shortened URL to the user
