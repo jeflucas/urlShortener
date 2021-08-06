@@ -19,7 +19,7 @@ Start    - 05 August 2021
 
 Deadline - 11 August 2021
 
-- [ ] Day 1 - Find an API to use and read the documentation
+- [x] Day 1 - Find an API to use and read the documentation, read the Vuetify Documentation
 - [ ] Day 2 - Build the visual part
 - [ ] Day 3 - Connect the API
 - [ ] Day 4 - Test and improove
