@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar color="blue-grey lighten-5">
+    <v-app-bar color="blue-grey lighten-5" class="d-flex flex-column">
       <v-text-field
             value="John Doe"
             label="Solo"
