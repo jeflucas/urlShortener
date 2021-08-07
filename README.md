@@ -6,12 +6,11 @@ URL Shortner is a single-page application that will recieve an valid link from u
 
 This project is still in progress so I'm planning to use:
 
-- VUE 2
 - CSS
 - HTML
 - JavaScript
 
-I'm still thinking on use a lib to help-me with the graphic part of the project, such as Vuetify or Bulma, I'll decide.
+I'm still thinking on use a lib/framework to help-me with the graphic part of the project, such as SemanticUI or Bulma, I'll decide.
 
 ## Chronogram
 
@@ -34,4 +33,8 @@ The UI should include the following elements:
 
 - Text input for the user's URL
 - "Shorten" button to trigger the link shortening
-- Display area to return the shortened URL to the user
+- Display area to return the shortened URL to the use
+
+## Notes 
+
+1 - At the start, I was decided to use VUE and Vuetify to build this project, but due to the short delivery time that I put on it, I've chosen to stay where I can swim safely, so I'll use the basics in this project and I'll compromise myself to study VUE to be comfortable with it.
