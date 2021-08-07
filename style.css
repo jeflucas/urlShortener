@@ -1,4 +1,9 @@
 body {
   background-color: #F0F3BD;
 }
+
+body .container {
+  width: 1024px;
+  height: 1024px;
+}
 /*# sourceMappingURL=style.css.map */
