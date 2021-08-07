@@ -1,9 +1,9 @@
-body {
-  background-color: #F0F3BD;
+.container {
+  width: 60vw;
+  height: 60vh;
 }
 
-body .container {
-  width: 1024px;
-  height: 1024px;
+.box {
+  background-color: #02C39A;
 }
 /*# sourceMappingURL=style.css.map */
