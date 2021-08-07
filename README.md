@@ -41,3 +41,5 @@ The UI should include the following elements:
 2 - I decided to use Bulma to help me with te CSS. I've some previous knowledge in Bootstrap and Bulma seems more easy to understand the class system, so far so good.
 
 3 - Using Bulma, I faced some difficulties to centralize figure div, searching on internet I didn't find anything that help me with that. A solution that works for me is not use the figure div, but put the image as img for real. Now I'll try to integrate the API to short the links.
+
+4 - I'm stucked in the API documentation, I've been facing some issues to request correctly.
