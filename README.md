@@ -6,11 +6,10 @@ URL Shortner is a single-page application that will recieve an valid link from u
 
 This project is still in progress so I'm planning to use:
 
-- CSS
+- SASS
+- Bulma Framework/Lib
 - HTML
 - JavaScript
-
-I'm still thinking on use a lib/framework to help-me with the graphic part of the project, such as SemanticUI or Bulma, I'll decide.
 
 ## Chronogram
 
@@ -40,3 +39,5 @@ The UI should include the following elements:
 1 - At the start, I was decided to use VUE and Vuetify to build this project, but due to the short delivery time that I put on it, I've chosen to stay where I can swim safely, so I'll use the basics in this project and I'll compromise myself to study VUE to be comfortable with it.
 
 2 - I decided to use Bulma to help me with te CSS. I've some previous knowledge in Bootstrap and Bulma seems more easy to understand the class system, so far so good.
+
+3 - 
