@@ -1,14 +1,8 @@
-.container {
-  width: 60vw;
-  height: 60vh;
-}
-
 .box {
   background-color: #02C39A;
 }
 
-figure {
-  width: 50%;
-  height: 50%;
+.label {
+  margin-top: 8px;
 }
 /*# sourceMappingURL=style.css.map */

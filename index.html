@@ -14,13 +14,13 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="./style.css" />
-    <title>URL Shortner</title>
+    <title>URL Shortener</title>
   </head>
   <body>
     <div class="container is-max-desktop">
       <h1 class="title has-text-dark has-text-centered">URL</h1>
       <h2 class="subtitle has-text-dark has-text-centered">
-        Shortner - By Jeff Lucas
+        Shortener - By Jeff Lucas
       </h2>
       <div class="box">
         <div class="columns is-mobile is-centered">
@@ -39,11 +39,12 @@
         </div>
 
         <div class="field">
-          <label class="label has-text-dark has-text-centered">URL</label>
+          <label class="label has-text-dark has-text-centered">Long and boring URL:</label>
           <div class="control has-icons-left">
             <input
               class="input"
               type="text"
+              id="longUrl"
               placeholder="Paste your URL here"
             />
             <span class="icon is-small is-left">
@@ -52,6 +53,20 @@
           </div>
         </div>
         <button class="button is-info is-light is-fullwidth">Short that</button>
+        <div class="field">
+          <label class="label has-text-dark has-text-centered">Your nice and short URL:</label>
+          <div class="control has-icons-left">
+            <input
+              class="input"
+              type="text"
+              id="shortUrl"
+              placeholder="Clink in the button above to get your new URL"
+            />
+            <span class="icon is-small is-left">
+              <i class="far fa-hand-peace"></i>
+            </span>
+          </div>
+        </div>
       </div>
     </div>
 

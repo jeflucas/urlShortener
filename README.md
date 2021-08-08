@@ -1,6 +1,6 @@
-# urlShortner
+# urlShortener
 
-URL Shortner is a single-page application that will recieve an valid link from user, consume an API to get a shrinked link and show it on the screen.
+URL Shortener is a single-page application that will receive a valid link from the user, consume an API to get a shrunk link and show it on the screen.
 
 ## Technologies
 
