@@ -38,8 +38,8 @@ The UI should include the following elements:
 
 1 - At the start, I was decided to use VUE and Vuetify to build this project, but due to the short delivery time that I put on it, I've chosen to stay where I can swim safely, so I'll use the basics in this project and I'll compromise myself to study VUE to be comfortable with it.
 
-2 - I decided to use Bulma to help me with te CSS. I've some previous knowledge in Bootstrap and Bulma seems more easy to understand the class system, so far so good.
+2 - I decided to use Bulma to help me with the CSS. I've some previous knowledge in Bootstrap and Bulma seems more easy to understand the class system, so far so good.
 
-3 - Using Bulma, I faced some difficulties to centralize figure div, searching on internet I didn't find anything that help me with that. A solution that works for me is not use the figure div, but put the image as img for real. Now I'll try to integrate the API to short the links.
+3 - Using Bulma, I faced some difficulties to centralize figure div, searching on the internet I didn't find anything that helps me with that. A solution that works for me is not to use the figure div but to put the image as img for real. Now I'll try to integrate the API to short the links.
 
-4 - I'm stucked in the API documentation, I've been facing some issues to request correctly.
+4 - I'm stuck in the API documentation, I've been facing some issues to request correctly.
