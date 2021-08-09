@@ -34,7 +34,7 @@ Deadline - 11 August 2021
 - [ ] Day 5 - Search for feedback in the community & improove
 - [ ] Day 6 - Present the project with a Linkedin post
 
-## Prject Requirements
+## Project Requirements
 
 The user will input a valid URL and click a "shorten" button. The shortened URL will then be displayed.
 
