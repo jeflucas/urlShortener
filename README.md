@@ -1,6 +1,6 @@
 # urlShortener
 
-[![CodeFactor](https://www.codefactor.io/repository/github/jeflucas/urlshortner/badge)](https://www.codefactor.io/repository/github/jeflucas/urlshortner)
+[![CodeFactor](https://www.codefactor.io/repository/github/jeflucas/urlshortener/badge)](https://www.codefactor.io/repository/github/jeflucas/urlshortener)
 
 URL Shortener is a single-page application that will receive a valid link from the user, consume an API to get a shrunk link and show it on the screen.
 
