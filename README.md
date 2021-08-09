@@ -4,6 +4,11 @@
 
 URL Shortener is a single-page application that will receive a valid link from the user, consume an API to get a shrunk link and show it on the screen.
 
+## Screenshot
+
+
+![](/img/Capture.JPG)
+
 ## Technologies
 
 This project is still in progress so I'm planning to use:
