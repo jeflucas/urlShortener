@@ -1,5 +1,14 @@
+.column {
+  max-height: 80vh;
+}
+
+img {
+  max-height: 100%;
+}
+
 .box {
   background-color: #02C39A;
+  margin-top: 10px;
 }
 
 .label {

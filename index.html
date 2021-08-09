@@ -14,15 +14,16 @@
       crossorigin="anonymous"
     ></script>
     <link rel="stylesheet" href="./style.css" />
+    <link rel="shortcut icon" href="./img/close_fullscreen_black_24dp.svg" type="image/svg">
     <title>URL Shortener</title>
   </head>
   <body>
     <div class="container is-max-desktop">
-      <h1 class="title has-text-dark has-text-centered">URL</h1>
+      <div class="box">
+        <h1 class="title has-text-dark has-text-centered">URL</h1>
       <h2 class="subtitle has-text-dark has-text-centered">
         Shortener - By Jeff Lucas
       </h2>
-      <div class="box">
         <div class="columns is-mobile is-centered">
           <div
             class="
@@ -52,16 +53,16 @@
             </span>
           </div>
         </div>
-        <button class="button is-info is-light is-fullwidth">Short that</button>
+        <button class="button is-info is-light is-fullwidth" id="btn">Short that</button>
         <div class="field">
           <label class="label has-text-dark has-text-centered">Your nice and short URL:</label>
-          <div class="control has-icons-left">
+          <div class="control has-icons-left" id="cut">
             <input
               class="input"
               type="text"
               id="shortUrl"
-              placeholder="Clink in the button above to get your new URL"
-            />
+              placeholder="Clink in the button above to get your new URL"> 
+            </input>
             <span class="icon is-small is-left">
               <i class="far fa-hand-peace"></i>
             </span>
