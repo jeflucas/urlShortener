@@ -3,9 +3,13 @@
 }
 
 img {
-  max-height: 100%;
+  display: block;
+    width: 50%;
+    max-width: 50em;
+    box-sizing: border-box;
+    margin: 1em auto;
+    padding: 0.5em 1em;
 }
-
 .box {
   background-color: #02C39A;
   margin-top: 10px;
