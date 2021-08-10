@@ -31,8 +31,8 @@ Deadline - 11 August 2021
 - [X] Day 2 - Build the visual part
 - [X] Day 3 - Connect the API
 - [X] Day 4 - Test and improove
-- [ ] Day 5 - Search for feedback in the community & improove
-- [ ] Day 6 - Present the project with a Linkedin post
+- [x] Day 5 - Search for feedback in the community & improove
+- [x] Day 6 - Present the project with a [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6830684497088966656/ "Feel free to comment and interact with the prublication")
 
 ## Project Requirements
 
