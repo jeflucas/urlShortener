@@ -14,7 +14,7 @@ URL Shortener is a single-page application that will receive a valid link from t
 
 ## Technologies
 
-This project is still in progress so I'm planning to use:
+This project I used:
 
 - SASS
 - Bulma Framework/Lib
@@ -30,7 +30,7 @@ Deadline - 11 August 2021
 - [x] Day 1 - Find an API to use and read the documentation, read the Vuetify Documentation
 - [X] Day 2 - Build the visual part
 - [X] Day 3 - Connect the API
-- [ ] Day 4 - Test and improove
+- [X] Day 4 - Test and improove
 - [ ] Day 5 - Search for feedback in the community & improove
 - [ ] Day 6 - Present the project with a Linkedin post
 
