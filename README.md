@@ -17,13 +17,14 @@ URL Shortener is a single-page application that will receive a valid link from t
 
 ## Technologies
 
-
 This project I used:
 
 - SASS
 - Bulma Framework/Lib
 - HTML
 - JavaScript
+
+
 
 ## Chronogram
 
